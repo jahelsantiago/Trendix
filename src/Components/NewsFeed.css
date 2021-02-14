@@ -1,0 +1,22 @@
+.newsFeed{
+    flex: 0.7;         
+}
+
+.newsFeed__prices{
+    text-align: left;
+    color: white;
+}
+
+.newsFeed_chart{
+    width: 100%;
+}
+
+.chart__section{
+    display: flex;
+    flex-direction: column;
+}
+
+.newsFeed__prices > h1,
+.newsFeed__prices > p{
+    margin: 0;
+}

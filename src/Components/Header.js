@@ -7,7 +7,8 @@ const Header = () => {
         <div className = "header__wrapper">
             {/*logo*/ }
             <div className="header__logo">
-                <img src={Logo} alt="" width = "25"/>
+                <img src={Logo} alt="" height = "30px"/>
+                
             </div>            
             {/*search bar*/ }
             <div className="header__search">

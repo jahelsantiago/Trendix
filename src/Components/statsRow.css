@@ -1,0 +1,28 @@
+.statsRow{
+    display: flex;
+    justify-content: space-between;    
+    padding: 10px;
+    
+}
+
+.statsRow:hover{
+    background-color: rgb(102, 101, 101);
+}
+
+.row__intro > p{
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+.row__intro > h1{
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.green{
+    color: chartreuse;
+}
+
+.red{
+    color: red;
+}
